@@ -28,13 +28,13 @@ Usage:
 
    4. Execute the command of make in the directory where the Makefile exists.
 
-      # make
+      make
 
    5. Start the application of Console.
       This application creates the license file of license.txt in the same directory.
       You can provide your clients with this license.txt.
 
-      # ./Console
+      ./Console
 
    6. Your application can check and validate the license.txt by using the files below.
 
