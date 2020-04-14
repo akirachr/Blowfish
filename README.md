@@ -4,7 +4,7 @@ This is a Blowfish (Encription/Decryption) module developed by using C++.<br>
 You can freely use this library without any restrictions.<br>
 <br>
 The application of Console gets your input of the license expirationdate (ex: 2021/05/31), encrypts it, <br>
-and stores the encrypted string in the file of license.txt.
+and stores the encrypted string in the file of license.txt.<br>
 The license.txt is created in the same directory where the Console exists.<br>
 <br>
 The customer of your application places the license.txt in his distribution of application.<br>
